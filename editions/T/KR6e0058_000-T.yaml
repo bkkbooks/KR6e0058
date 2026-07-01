@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6e0058/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 最勝問菩薩十住除垢斷結經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T10/T10n0309.xml
+    old_id: T10n0309
+hash: sha256:7e1cb08530ef1903cbf360cca9e287d913df3d57996eeb5b55bdded4abf08299
